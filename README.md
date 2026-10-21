@@ -36,25 +36,6 @@ Progetto e mantengo pipeline di dati in cloud: porto i dati dalle sorgenti al da
 
 </details>
 
-## 📊 Statistiche
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=frudello&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=14B8A6&icon_color=FBBF24">
-    <img height="165" alt="Statistiche GitHub" src="https://github-readme-stats.vercel.app/api?username=frudello&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0F766E&icon_color=B45309">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=frudello&layout=compact&hide_border=true&theme=github_dark&title_color=14B8A6">
-    <img height="165" alt="Linguaggi più usati" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frudello&layout=compact&hide_border=true&title_color=0F766E">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=frudello&theme=github-dark-blue&hide_border=true&background=0D1117&ring=14B8A6&fire=FBBF24&currStreakLabel=14B8A6">
-    <img alt="Serie di contribuzioni" src="https://streak-stats.demolab.com?user=frudello&hide_border=true&ring=0F766E&fire=B45309&currStreakLabel=0F766E">
-  </picture>
-</p>
 
 <details>
 <summary><b>🌱 Da dove vengo</b></summary>
