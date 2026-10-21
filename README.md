@@ -70,8 +70,6 @@ Mi sono formato con il percorso [42](https://www.42network.org/): solo progetti 
 
 </details>
 
-## 📫 Contatti
-
 <!-- Sostituisci i link qui sotto con i tuoi e togli i commenti -->
 <!--
 <a href="https://www.linkedin.com/in/TUO-PROFILO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
